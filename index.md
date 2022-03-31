@@ -11,4 +11,7 @@ I will utilize this portfolio to showcase what I learned in my "Teach Computatio
 
 ## My Projects in Computational Thinking
 
-> coming soon 
+
+https://youtu.be/PTv4_EqkoJg
+
+> more coming soon 
