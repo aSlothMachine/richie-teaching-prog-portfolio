@@ -11,7 +11,7 @@ I will utilize this portfolio to showcase what I learned in my "Teach Computatio
 
 ## My Projects in Computational Thinking
 
+[![Explaining Snap House Program](images/house-thumbnail.png)]({https://youtu.be/PTv4_EqkoJg} "Youtube Video of House Instructions")
 
-https://youtu.be/PTv4_EqkoJg
 
 > more coming soon 
