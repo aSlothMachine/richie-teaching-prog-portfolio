@@ -13,7 +13,11 @@ I will utilize this portfolio to showcase what I learned in my "Teach Computatio
 
 Click on the images to go to video.
 
+### Snap instructions to Draw a House
+
+
 [![Explaining Snap House Program](images/house-thumbnail.png)](https://youtu.be/PTv4_EqkoJg "Youtube Video of House Instructions")
 
+### . . . 
 
 > more coming soon 
