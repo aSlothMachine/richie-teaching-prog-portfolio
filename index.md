@@ -18,6 +18,13 @@ Click on the images to go to video.
 
 [![Explaining Snap House Program](images/house-thumbnail.png)](https://youtu.be/PTv4_EqkoJg "Youtube Video of House Instructions")
 
+
+
+
+### Snap instructions to Dance
+
+[![Explaining Snap Dance Program](images/dancer-thumbnail.png)](https://youtu.be/kXkiIh2u23k "Youtube Video of Dance Instructions")
+
 ### . . . 
 
 > more coming soon 
