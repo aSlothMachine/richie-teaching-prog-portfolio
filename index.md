@@ -13,17 +13,19 @@ I will utilize this portfolio to showcase what I learned in my "Teach Computatio
 
 Click on the images to go to video.
 
+### Quest Explanation Video (2022-04-10)
+
+[![Explaining Quest Instructions](images/animals-thumbnail.png)](https://youtu.be/Yq3nvB6KDFo "Youtube Video of Quest Instructions")
+
+### Snap instructions to Dance
+
+[![Explaining Snap Dance Program](images/dancer-thumbnail.png)](https://youtu.be/kXkiIh2u23k "Youtube Video of Dance Instructions")
+
 ### Snap instructions to Draw a House
 
 
 [![Explaining Snap House Program](images/house-thumbnail.png)](https://youtu.be/PTv4_EqkoJg "Youtube Video of House Instructions")
 
-
-
-
-### Snap instructions to Dance
-
-[![Explaining Snap Dance Program](images/dancer-thumbnail.png)](https://youtu.be/kXkiIh2u23k "Youtube Video of Dance Instructions")
 
 ### . . . 
 
