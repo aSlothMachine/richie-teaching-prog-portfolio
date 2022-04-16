@@ -13,6 +13,10 @@ I will utilize this portfolio to showcase what I learned in my "Teach Computatio
 
 Click on the images to go to video.
 
+### Mouse Explanation Video (2022-04-16)
+
+[![Explaining Mouse Instructions](images/mouse-thumbnail.png)](https://youtu.be/lx7Ak2XQGxo "Youtube Video of mouse Instructions")
+
 ### Quest Explanation Video (2022-04-10)
 
 [![Explaining Quest Instructions](images/animals-thumbnail.png)](https://youtu.be/Yq3nvB6KDFo "Youtube Video of Quest Instructions")
