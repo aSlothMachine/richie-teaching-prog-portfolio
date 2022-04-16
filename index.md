@@ -11,7 +11,7 @@ I will utilize this portfolio to showcase what I learned in my "Teach Computatio
 
 ## My Projects in Computational Thinking
 
-Click on the images to go to video.
+Click on the images to go to video
 
 ### Mouse Explanation Video (2022-04-16)
 
