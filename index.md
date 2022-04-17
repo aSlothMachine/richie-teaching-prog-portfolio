@@ -15,7 +15,7 @@ Click on the images to go to a video
 
 ### Mouse Explanation Video (2022-04-17)
 
-[![Explaining Monkey Instructions](images/monkey-thumbnail.png)](https://youtu.be/JaKP9mOS_Y4 "Youtube Video of monkey Instructions")
+[![Explaining Monkey Instructions](images/monkey-thumbnail.png)](https://youtu.be/X8r8wlrcD6c "Youtube Video of monkey Instructions")
 
 ### Mouse Explanation Video (2022-04-16)
 
