@@ -13,6 +13,10 @@ I will utilize this portfolio to showcase what I learned in my "Teach Computatio
 
 Click on an image to go to a video
 
+### Shape Instruction Video (2022-04-24)
+
+[![Explaining ShapeInstructions](images/shape-thumbnail.png)](https://youtu.be/Pk7jlJLTZgc "Youtube Video of Shape Instructions")
+
 ### Mouse Explanation Video (2022-04-17)
 
 [![Explaining Monkey Instructions](images/monkey-thumbnail.png)](https://youtu.be/X8r8wlrcD6c "Youtube Video of monkey Instructions")
