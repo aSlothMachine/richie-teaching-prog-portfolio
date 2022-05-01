@@ -13,6 +13,10 @@ I will utilize this portfolio to showcase what I learned in my "Teach Computatio
 
 Click on an image to go to a video
 
+### Soccer Ball Instruction Video (2022-05-01)
+
+[![Explaining Soccer Instructions](images/soccer-thumbnail.png)](https://youtu.be/tKMrE0IZP1I "Youtube Video of soccer Instructions")
+
 ### Shape Instruction Video (2022-04-24)
 
 [![Explaining ShapeInstructions](images/shape-thumbnail.png)](https://youtu.be/Pk7jlJLTZgc "Youtube Video of Shape Instructions")
