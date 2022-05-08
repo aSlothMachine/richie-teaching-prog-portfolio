@@ -13,6 +13,10 @@ I will utilize this portfolio to showcase what I learned in my "Teach Computatio
 
 Click on an image to go to a video
 
+### Target Instruction Video (2022-05-08)
+
+[![Explaining Target Instructions](images/target-thumbnail.png)](https://youtu.be/Qxe7UypFjgU "Youtube Video of target Instructions")
+
 ### Soccer Ball Instruction Video (2022-05-01)
 
 [![Explaining Soccer Instructions](images/soccer-thumbnail.png)](https://youtu.be/tKMrE0IZP1I "Youtube Video of soccer Instructions")
