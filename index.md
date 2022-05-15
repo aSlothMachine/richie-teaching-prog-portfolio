@@ -13,6 +13,10 @@ I will utilize this portfolio to showcase what I learned in my "Teach Computatio
 
 Click on an image to go to a video
 
+### Beach Instruction Video (2022-05-15)
+
+[![Explaining Beach Instructions](images/sand-thumbnail.png)](https://youtu.be/PpemT6-br-A "Youtube Video of beach Instructions")
+
 ### Target Instruction Video (2022-05-08)
 
 [![Explaining Target Instructions](images/target-thumbnail.png)](https://youtu.be/Qxe7UypFjgU "Youtube Video of target Instructions")
