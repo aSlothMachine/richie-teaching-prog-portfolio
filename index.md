@@ -13,6 +13,10 @@ I will utilize this portfolio to showcase what I learned in my "Teach Computatio
 
 Click on an image to go to a video
 
+### Treasure Instruction Video (2022-05-20)
+
+[![Explaining Treasure Instructions](images/treasure-thumbnail.png)](https://youtu.be/CE4QFMWPqOY "Youtube Video of Treasure Instructions")
+
 ### Beach Instruction Video (2022-05-15)
 
 [![Explaining Beach Instructions](images/sand-thumbnail.png)](https://youtu.be/PpemT6-br-A "Youtube Video of beach Instructions")
