@@ -13,6 +13,10 @@ I will utilize this portfolio to showcase what I learned in my "Teach Computatio
 
 Click on an image to go to a video
 
+### Country Instruction Video (2022-06-04)
+
+[![Explaining Country Instructions](images/country-thumbnail.png)](https://youtu.be/F-EFrgGgn5U "Youtube Video of Country Instructions")
+
 ### Painting Instruction Video (2022-05-29)
 
 [![Explaining Painting Instructions](images/flower-thumbnail.png)](https://youtu.be/Cjrrwx8Hw7Y "Youtube Video of Painting Instructions")
